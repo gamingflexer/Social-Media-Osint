@@ -4,8 +4,8 @@
 
 ##CONTRIBUTING -- ⭐️ The Project - Add a Pull request i will share access to the google sheet 
 
-SM
-FB
+*SM
+*FB
 INSTAGRAM
 TWITTER
 YOUTUBE
